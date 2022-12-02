@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SecRe555
 - 👀 I’m interested in learn new programming languages
-- 🌱 I’m currently learning JDBC
-- 💞️ I’m looking to collaborate on everybodt
+- 🌱 I’m currently learning html, css and javascript
+- 💞️ I’m looking to collaborate on everybody
 
 <!---
 SecRe555/SecRe555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
