@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SecRe555
 - 👀 I’m interested in learn new programming languages
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning React and Astro
 - 💞️ I’m looking to collaborate on everybody
 
 <!---
